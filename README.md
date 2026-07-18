@@ -31,7 +31,7 @@
 
 ## 📫 Como me encontrar
 
-* [Linkdin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+* [Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 * Email: feliperamos751@yahoo.com.br
 
 ---
