@@ -8,10 +8,10 @@
 
 ## 🧠 Tecnologias que estou aprendendo
 
-* ![HTML](https://img.shields.io/badge/HTML-5-orange)
-* ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-* ![CSS](https://img.shields.io/badge/CSS-3-blue)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)  (em andamento)
+* ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)<br>
+* ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)<br>
+* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)<br>
+* ![API](https://img.shields.io/badge/API-FF6B00?logo=api&logoColor=white)
 
 ---
 
